@@ -1,0 +1,3 @@
+# Mayorial
+
+Dummy app.
